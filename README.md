@@ -1,4 +1,4 @@
-# 🦀 Oxidized templates ❄️
+# 🦀 Oxidized Flakes ❄️
 
 ### Templates
 
